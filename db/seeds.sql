@@ -27,4 +27,3 @@ VALUES ("Levi", "Ackerman", 2, NULL),
     ("Meg","Abytes", 5, 6),
     ("Gerri", "Kellman", 8, NULL),
     ("Saul", "Goodman", 9, 9);
-
