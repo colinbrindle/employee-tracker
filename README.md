@@ -7,4 +7,4 @@ The intended functionality of this application is to be manage an employee SQL d
 ![Database schema includes tables labeled “employee,” role,” and “department.”](./imgs/12-sql-homework-demo-01.png)
 
 ### **Video Demonstration**
-[Link to video demonstration](https://drive.google.com/file/d/1is0C8OvYHkicnQnOYZ6Gnw5MCpQeuaRU/view?usp=sharing)
+[Link to video demonstration](https://www.youtube.com/watch?v=QXP9BMT2X5g)
